@@ -12,3 +12,4 @@ AWS Lambda is an event driven backend service that allows us to run code without
 
 AWS Simple Storage Service is used for object storage purpose and AWS DynamoDB is used to store the records and it is the database for the applcation.
 
+![Architecture](https://github.com/ramya206/Serverless-App/blob/master/Design/Architecture.png)
